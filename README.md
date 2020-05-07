@@ -1,8 +1,8 @@
 # CoronaMapsKW COVID-19 Data
-Data on COVID-19 confirmed cases, deaths, source • All countries • Updated daily by CoronaMapsKW http://coronamapskw.com • Information obtained from official sources https://corona.e.gov.kw
+Data on COVID-19 confirmed cases in the state of Kuwait, deaths, source • All countries • Updated daily by CoronaMapsKW http://coronamapskw.com • Information obtained from official sources https://corona.e.gov.kw and public announcements by health authorieis.
 
 # License
-All of Our World in Data is completely open access and all work is licensed under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.
+All of CoronaMapsKW is completely open access and all work is licensed under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce in any medium, provided the source and authors are credited.
 
 ## Terms of Use
 
